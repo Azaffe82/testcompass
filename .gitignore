@@ -218,3 +218,8 @@ __marimo__/
 .streamlit/secrets.toml
 data/raw/
 
+.DS_Store
+**/.DS_Store
+data/
+archive/**/*.csv
+.ipynb_checkpoints/
